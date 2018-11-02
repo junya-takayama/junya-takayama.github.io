@@ -1,0 +1,21 @@
+title: Junya TAKAYAMA
+url: "https://ankitsultana.com"
+baseurl: ""
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+# - name: "About"
+#   link: "/"
+# - name: "Contact"
+#   link: "contact"
