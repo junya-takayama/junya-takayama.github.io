@@ -47,7 +47,6 @@ layout: default
 
 * **2018-09** Teaching Assistant of DLI hands-on training on [NVIDIA GTC Japan](https://www.nvidia.com/ja-jp/gtc/) 2018
 * **2018-08** 第10回 [最先端NLP勉強会（SNLP2018）](https://sites.google.com/view/snlp-jp/home/2018), 実行委員
-* **2017-08** 株式会社LIXILインターンシップ（データ分析）
 
 
 ## History
