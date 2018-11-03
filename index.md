@@ -80,7 +80,7 @@ layout: default
 * 米津玄師
 
 #### Favorite Games
-* [**ゼルダの伝説シリーズ（The Legend of Zelda series）**](https://www.nintendo.co.jp/character/zelda/index.html) : *The most wonderful, fantastic, amazing, marvelous and awesome game in the world...*
+* [**The Legend of Zelda series**](https://www.nintendo.co.jp/character/zelda/index.html) : *The most wonderful, fantastic, amazing, marvelous and awesome game in the world...*
 * Kingdom Hearts series
 * Final Fantasy (VIII, IX, X, X-2, XV)
 * Xenoblade 2
