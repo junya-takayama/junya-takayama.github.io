@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## About Me {#aboutme}
 
 <img class="profile-picture" src="takayama.jpg">
 
@@ -17,7 +17,7 @@ layout: default
 <i class="fab fa-facebook-square"></i>[tkym1220](https://www.facebook.com/tkym1220)  
 
 
-## Research Interest
+## Research Interests {#research}
 
 * 自然言語処理（Natural Language Processing）
 * 雑談対話システム（Chatbot）
@@ -28,7 +28,7 @@ layout: default
 * 機械学習（Machine Learning）
 
 
-## Publications
+## Publications {#publications}
 
 #### 学術論文誌（Journal papers）
 1. <u>Junya Takayama</u>, Eriko Nomoto, Yuki Arase. **Dialogue breakdown detection robust to variations in annotators and dialogue systems**. *Computer Speech & Language*, Vol.54, pp.31-43, March 2019. [[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0885230818300901)] 
@@ -43,13 +43,24 @@ layout: default
 1. <u>高山 隼矢</u>, 三輪 誠, 佐々木 裕. **交通オントロジーに基づく質問応答データセットの構築**. *言語処理学会第２３回年次大会（NLP2017）*, pp.691-694, March 2017.
 
 
-## Other Activities
+## Other Activities {#others}
 
 * **2018-09** Teaching Assistant of DLI hands-on training on [NVIDIA GTC Japan](https://www.nvidia.com/ja-jp/gtc/) 2018
 * **2018-08** 第10回 [最先端NLP勉強会（SNLP2018）](https://sites.google.com/view/snlp-jp/home/2018), 実行委員
 
 
-## History
+## Skills {#skills}
+
+* Python3
+    * Jupyter notebook
+    * keras, pytorch, sklearn, numpy, scipy, pandas, mpl, Flask, Django, folium etc.
+* Ruby (basic skills)
+* MongoDB
+* Docker (compose)
+* ~~SPARQL~~
+
+
+## History {#history}
 
 * **2017-04** [ビッグデータ工学講座（鬼塚研）](http://www-bigdata.ist.osaka-u.ac.jp/ja/home/)  配属
 * **2017-04** 大阪大学大学院情報科学研究科 マルチメディア工学専攻　入学 
@@ -59,10 +70,10 @@ layout: default
 * **2012-03** 愛知県立豊田北高校　卒業
 
 
-## Outside Interests
+## Outside Interests {#outside}
 
 #### Hobbies
-* 鉄道旅行, バイク, ゲーム, ギター
+* 鉄道旅行, ギター, バイク, ゲーム
 
 #### Favorite Musicians
 * [**BUMP OF CHICKEN**](http://www.bumpofchicken.com/)
@@ -70,7 +81,7 @@ layout: default
 
 #### Favorite Games
 * [**ゼルダの伝説シリーズ（The Legend of Zelda series）**](https://www.nintendo.co.jp/character/zelda/index.html) : *The most wonderful, fantastic, amazing, marvelous and awesome game in the world...*
-* Kingdom Hearts series : *はやく 3 を だすべき！*
-* Final Fantasy (VIII, IX, X, X-2, XV) : *VIII のリメイク を だすべき！*
+* Kingdom Hearts series
+* Final Fantasy (VIII, IX, X, X-2, XV)
 * Xenoblade 2
 * Mario Kart (Super, 64, 8, 8 Deluxe)
