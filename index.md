@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Junya Takayama
 ---
 
 ## About Me {#aboutme}
