@@ -2,8 +2,7 @@
 layout: default
 ---
 
-## About Me 
-{#aboutme}
+## About Me {#aboutme}
 
 <img class="profile-picture" src="takayama.jpg">
 
