@@ -4,6 +4,7 @@ baseurl: ""
 
 markdown: kramdown
 
+google_analytics: UA-128655489-1
 tracking_id: #
 
 footer: yes
