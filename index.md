@@ -29,7 +29,7 @@ title: Junya Takayama
 * 機械学習（Machine Learning）
 
 ## Awards {#Awards}
-1. 大阪大学大学院情報科学研究科賞
+1. 大阪大学大学院情報科学研究科賞（平成30年度）
 
 ## Publications {#publications}
 
