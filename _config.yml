@@ -20,6 +20,8 @@ nav:
    link: "#aboutme"
  - name: "Research"
    link: "#research"
+ - name: "Awards"
+   link: "#awards"
  - name: "Publications"
    link: "#publications"
  - name: "Skills"
