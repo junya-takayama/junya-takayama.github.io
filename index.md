@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Junya Takayama
+lang: 'ja'
 ---
 
 ## About Me {#aboutme}
