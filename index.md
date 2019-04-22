@@ -16,7 +16,6 @@ lang: 'ja'
 <i class="fas fa-envelope-square"></i>takayama.junya [at] ist.osaka-u.ac.jp  
 <i class="fab fa-github-square"></i>[junya-takayama](https://github.com/junya-takayama)  
 <i class="fab fa-twitter-square"></i>[tkym1220](https://twitter.com/tkym1220)  
-<i class="fab fa-facebook-square"></i>[tkym1220](https://www.facebook.com/tkym1220)  
 
 
 ## Research Interests {#research}
