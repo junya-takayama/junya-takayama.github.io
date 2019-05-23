@@ -8,6 +8,7 @@ lang: 'ja'
 
 <img class="profile-picture" src="takayama.jpg">
 
+Ph.D. student at Osaka University  
 大阪大学大学院情報科学研究科 マルチメディア工学専攻  
 [ビッグデータ工学講座（鬼塚研）](http://www-bigdata.ist.osaka-u.ac.jp/ja/home/)  
 博士後期課程 1年  
@@ -47,12 +48,22 @@ lang: 'ja'
 1. <u>高山 隼矢</u>, 荒瀬 由紀. **擬似対話コーパス構築のための対話品質推定**. *NLP若手の会 (YANS) 第12回シンポジウム（YANS2017）* , September 2017.
 1. <u>高山 隼矢</u>, 三輪 誠, 佐々木 裕. **交通オントロジーに基づく質問応答データセットの構築**. *言語処理学会第23回年次大会（NLP2017）*, pp.691-694, March 2017.
 
+## Experiences {#experiences}
+
+* 特任研究員（非常勤） - Specially Appointed Researcher/Fellow (Part time):  
+大阪大学情報科学研究科  
+2019-04 ~ 現在
+* 技術補佐員（非常勤） - Technical Staff (Temporary Part-Time Staff):  
+大阪大学情報科学研究科  
+2018-09 ~ 2019-03
+* Internship:  
+株式会社LIXIL  
+2017-08
 
 ## Other Activities {#others}
 
 * **2018-09** Teaching Assistant of DLI hands-on training on [NVIDIA GTC Japan](https://www.nvidia.com/ja-jp/gtc/) 2018
 * **2018-08** 第10回 [最先端NLP勉強会（SNLP2018）](https://sites.google.com/view/snlp-jp/home/2018), 実行委員
-
 
 ## Skills {#skills}
 
