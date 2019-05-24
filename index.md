@@ -50,10 +50,10 @@ Ph.D. student at Osaka University
 
 ## Experiences {#experiences}
 
-* 特任研究員（非常勤） - Specially Appointed Researcher/Fellow (Part time):  
+* 特任研究員S（非常勤） - Specially Appointed Researcher/Fellow (Part time):  
 大阪大学情報科学研究科  
 2019-04 ~ 現在
-* 技術補佐員（非常勤） - Technical Staff (Temporary Part-Time Staff):  
+* 技術補佐員S（非常勤） - Technical Staff (Temporary Part-Time Staff):  
 大阪大学情報科学研究科  
 2018-09 ~ 2019-03
 * Internship:  
