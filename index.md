@@ -39,6 +39,8 @@ Ph.D. student at Osaka University
 
 #### 国際会議・ワークショップ（International conferences/Workshops）
 1. <u>Junya Takayama</u>, Yuki Arase. **Relevant and Informative Response Generationusing Pointwise Mutual Information**. in *Proceedings of the NLP for Conversational AI workshop*, August 2019. (to appear)
+1. Kozo Chikai, <u>Junya Takayama</u>, Yuki Arase. **Responsive and Self-Expressive Dialogue Generation**. in *Proceedings of the NLP for Conversational AI workshop*, August 2019. (to appear)
+1. Koji Tanaka,<u>Junya Takayama</u>, Yuki Arase. **Dialogue-Act Prediction of Future Response based on Conversation History**. in *Proceedings of ACL 2018, Student Research Workshop*, August 2019. (to appear)
 1. <u>Junya Takayama</u>, Eriko Nomoto, Yuki Arase. **Dialogue Breakdown Detection Considering Annotation Biases**.  in *Proceedings of Dialog System Technology Challenge 6 (DSTC6) Workshop*, December 2017. [[pdf](http://workshop.colips.org/dstc6/papers/track3_paper15_takayama.pdf)] 
 
 #### 国内会議・研究会等（Domestic conferences/others）
