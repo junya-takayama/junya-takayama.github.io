@@ -30,7 +30,7 @@ Ph.D. student at Osaka University
 * 機械学習（Machine Learning）
 
 ## Awards {#Awards}
-1. 大阪大学大学院情報科学研究科賞（平成30年度）
+1. 大阪大学大学院情報科学研究科賞（平成30年度） [[Link](http://www.ist.osaka-u.ac.jp/japanese/dept/istplaza/H31/data/03.html)]
 
 ## Publications {#publications}
 
