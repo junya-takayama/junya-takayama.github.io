@@ -65,7 +65,7 @@ Ph.D. student at Osaka University
 
 ## Other Activities {#others}
 
-#### Organizer
+#### Organizer / Staff
 * **2019-09** [第11回 最先端NLP勉強会（SNLP2019）](https://sites.google.com/view/snlp-jp/home/2019), 実行委員
 * **2018-09** Teaching Assistant of DLI hands-on training on [NVIDIA GTC Japan](https://www.nvidia.com/ja-jp/gtc/) 2018
 * **2018-08** [第10回 最先端NLP勉強会（SNLP2018）](https://sites.google.com/view/snlp-jp/home/2018), 実行委員
