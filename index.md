@@ -38,6 +38,7 @@ Ph.D. student at Osaka University
 1. <u>Junya Takayama</u>, Eriko Nomoto, Yuki Arase. **Dialogue breakdown detection robust to variations in annotators and dialogue systems**. *Computer Speech & Language*, Vol.54, pp.31-43, March 2019. [[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0885230818300901)] 
 
 #### 国際会議・ワークショップ（International conferences/Workshops）
+1. Sora Ohashi, <u>Junya Takayama</u>, Tomoyuki Kajiwara, Chenhui Chu, Yuki Arase. **Text Classification with Negative Supervision**. in *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)*, July 2020 (to appear). 
 1. <u>Junya Takayama</u>, Yuki Arase. **Relevant and Informative Response Generationusing Pointwise Mutual Information**. in *Proceedings of the NLP for Conversational AI workshop (held at ACL2019)*, August 2019. Acceptance rate: 36.8%. [[ACL Anthology](https://www.aclweb.org/anthology/papers/W/W19/W19-4115/)]
 1. Kozo Chikai, <u>Junya Takayama</u>, Yuki Arase. **Responsive and Self-Expressive Dialogue Generation**. in *Proceedings of the NLP for Conversational AI workshop (held at ACL2019)*, August 2019. Acceptance rate: 36.8%. [[ACL Anthology](https://www.aclweb.org/anthology/papers/W/W19/W19-4116/)]
 1. Koji Tanaka, <u>Junya Takayama</u>, Yuki Arase. **Dialogue-Act Prediction of Future Response based on Conversation History**. in *Proceedings of ACL 2019, Student Research Workshop*, August 2019. [[ACL Anthology](https://www.aclweb.org/anthology/papers/P/P19/P19-2027/)]
