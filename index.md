@@ -72,7 +72,7 @@ Ph.D. student at Osaka University
 * **2018-08** [第10回 最先端NLP勉強会（SNLP2018）](https://sites.google.com/view/snlp-jp/home/2018), 実行委員
 
 #### Talk
-* **「ACL2019参加報告」**. *[第10回対話システムシンポジウム（第87回 SIG-SLUD）](https://jsai-slud.github.io/sig-slud/)*, December 2019. [Slide]
+* **「ACL2019参加報告」**. *[第10回対話システムシンポジウム（第87回 SIG-SLUD）](https://jsai-slud.github.io/sig-slud/)*, December 2019. [[Slide](https://github.com/jsai-slud/sig-slud/raw/master/material/87th/sympo10_conf_report.pdf)]
 
 ## Skills {#skills}
 
