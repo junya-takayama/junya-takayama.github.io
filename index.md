@@ -63,6 +63,9 @@ Ph.D. student at Osaka University
 * Internship:  
 株式会社LIXIL  
 2017-08
+* Internship:  
+株式会社トヨタコミュニケーションシステム（現トヨタシステムズ） 
+2016-02 ~ 2016-03
 
 ## Other Activities {#others}
 
@@ -73,6 +76,7 @@ Ph.D. student at Osaka University
 
 #### Talk
 * **「ACL2019参加報告」**. *[第10回対話システムシンポジウム（第87回 SIG-SLUD）](https://jsai-slud.github.io/sig-slud/)*, December 2019. [[Slide](https://github.com/jsai-slud/sig-slud/raw/master/material/87th/sympo10_conf_report.pdf)]
+* **「論文紹介：Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory」** *[第11回 最先端NLP勉強会（SNLP2019）](https://sites.google.com/view/snlp-jp/home/2019)* September 2019. [[Slide](https://docs.google.com/presentation/d/e/2PACX-1vTXYak3cM0fcqLH9BpffoufHNwFop9BcAa_NC8YmSFh8OHr3uZFvDU2IiZA08UzJDypsuQNhFs1guBb/pub?start=false&loop=false&delayms=3000&slide=id.g645a4019e0_0_0)]
 
 ## Skills {#skills}
 
