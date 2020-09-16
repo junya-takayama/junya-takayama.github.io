@@ -38,7 +38,8 @@ Ph.D. student at Osaka University
 1. <u>Junya Takayama</u>, Eriko Nomoto, Yuki Arase. **Dialogue breakdown detection robust to variations in annotators and dialogue systems**. *Computer Speech & Language*, Vol.54, pp.31-43, March 2019. [[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0885230818300901)] 
 
 #### 国際会議・ワークショップ（International conferences/Workshops）
-1. Sora Ohashi, <u>Junya Takayama</u>, Tomoyuki Kajiwara, Chenhui Chu, Yuki Arase. **Text Classification with Negative Supervision**. in *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)*, July 2020 (to appear). 
+1. <u>Junya Takayama</u>, Yuki Arase. **Consistent Response Generation with Controlled Specificity** in *Findings of EMNLP*, November, 2020 (to appear).
+1. Sora Ohashi, <u>Junya Takayama</u>, Tomoyuki Kajiwara, Chenhui Chu, Yuki Arase. **Text Classification with Negative Supervision**. in *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)*, July 2020. Acceptance rate: 17.6% (short papers). [[ACL Anthology](https://www.aclweb.org/anthology/2020.acl-main.33/)] 
 1. <u>Junya Takayama</u>, Yuki Arase. **Relevant and Informative Response Generationusing Pointwise Mutual Information**. in *Proceedings of the NLP for Conversational AI workshop (held at ACL2019)*, August 2019. Acceptance rate: 36.8%. [[ACL Anthology](https://www.aclweb.org/anthology/papers/W/W19/W19-4115/)]
 1. Kozo Chikai, <u>Junya Takayama</u>, Yuki Arase. **Responsive and Self-Expressive Dialogue Generation**. in *Proceedings of the NLP for Conversational AI workshop (held at ACL2019)*, August 2019. Acceptance rate: 36.8%. [[ACL Anthology](https://www.aclweb.org/anthology/papers/W/W19/W19-4116/)]
 1. Koji Tanaka, <u>Junya Takayama</u>, Yuki Arase. **Dialogue-Act Prediction of Future Response based on Conversation History**. in *Proceedings of ACL 2019, Student Research Workshop*, August 2019. [[ACL Anthology](https://www.aclweb.org/anthology/papers/P/P19/P19-2027/)]
@@ -69,14 +70,19 @@ Ph.D. student at Osaka University
 
 ## Other Activities {#others}
 
-#### Organizer / Staff
-* **2019-09** [第11回 最先端NLP勉強会（SNLP2019）](https://sites.google.com/view/snlp-jp/home/2019), 実行委員
-* **2018-09** Teaching Assistant of DLI hands-on training on [NVIDIA GTC Japan](https://www.nvidia.com/ja-jp/gtc/) 2018
-* **2018-08** [第10回 最先端NLP勉強会（SNLP2018）](https://sites.google.com/view/snlp-jp/home/2018), 実行委員
+#### Organizer
+* **2020-09** [第12回 最先端NLP勉強会（SNLP2020）](https://sites.google.com/view/snlp-jp/home/2020), 実行委員 (Organizer)
+* **2019-09** [第11回 最先端NLP勉強会（SNLP2019）](https://sites.google.com/view/snlp-jp/home/2019), 実行委員 (Organizer)
+* **2018-08** [第10回 最先端NLP勉強会（SNLP2018）](https://sites.google.com/view/snlp-jp/home/2018), 実行委員 (Organizer)
+
+#### Teaching Assistant
+* **2020-09 ~ 2020-10** [一般社団法人データビリティコンソーシアム](https://cds.or.jp/index.html) 実データで学ぶ人工知能講座（土曜集中コース）, TA
+* **2018-09** DLI hands-on training on [NVIDIA GTC Japan](https://www.nvidia.com/ja-jp/gtc/) 2018, TA
 
 #### Talk
+* **OpenNMTによる雑談対話機能の実装 講師**. *[コトバデザイン](https://cotobadesign.com/)主催 [対話システム勉強会](https://cotobaagent-developers-community.connpass.com/event/188047/)*, October 2020.
 * **「ACL2019参加報告」**. *[第10回対話システムシンポジウム（第87回 SIG-SLUD）](https://jsai-slud.github.io/sig-slud/)*, December 2019. [[Slide](https://github.com/jsai-slud/sig-slud/raw/master/material/87th/sympo10_conf_report.pdf)]
-* **「論文紹介：Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory」** *[第11回 最先端NLP勉強会（SNLP2019）](https://sites.google.com/view/snlp-jp/home/2019)* September 2019. [[Slide](https://docs.google.com/presentation/d/e/2PACX-1vTXYak3cM0fcqLH9BpffoufHNwFop9BcAa_NC8YmSFh8OHr3uZFvDU2IiZA08UzJDypsuQNhFs1guBb/pub?start=false&loop=false&delayms=3000&slide=id.g645a4019e0_0_0)]
+* **「論文紹介：Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory」**. *[第11回 最先端NLP勉強会（SNLP2019）](https://sites.google.com/view/snlp-jp/home/2019)* September 2019. [[Slide](https://docs.google.com/presentation/d/e/2PACX-1vTXYak3cM0fcqLH9BpffoufHNwFop9BcAa_NC8YmSFh8OHr3uZFvDU2IiZA08UzJDypsuQNhFs1guBb/pub?start=false&loop=false&delayms=3000&slide=id.g645a4019e0_0_0)]
 
 ## Skills {#skills}
 
