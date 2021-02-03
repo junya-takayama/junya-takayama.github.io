@@ -55,8 +55,8 @@ Ph.D. student at Osaka University
 
 ## Experiences {#experiences}
 
-* Research Intern:
-[rinna株式会社](https://corp.rinna.co.jp/)
+* 研究インターン - Research Intern:  
+[rinna株式会社](https://corp.rinna.co.jp/)  
 2020-02 ~ 2020-04 (予定)
 * 特任研究員S（非常勤） - Specially Appointed Researcher/Fellow (Part time):  
 大阪大学情報科学研究科  
