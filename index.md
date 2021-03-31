@@ -11,7 +11,7 @@ lang: 'ja'
 Ph.D. student at Osaka University  
 大阪大学大学院情報科学研究科 マルチメディア工学専攻  
 [ビッグデータ工学講座（鬼塚研）](http://www-bigdata.ist.osaka-u.ac.jp/ja/home/)  
-博士後期課程 2年  
+博士後期課程 3年  
 高山 隼矢 (Junya TAKAYAMA)  
 
 <i class="fas fa-envelope-square"></i>takayama.junya [at] ist.osaka-u.ac.jp  
