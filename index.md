@@ -38,6 +38,7 @@ Ph.D. student at Osaka University
 1. <u>Junya Takayama</u>, Eriko Nomoto, Yuki Arase. **Dialogue breakdown detection robust to variations in annotators and dialogue systems**. *Computer Speech & Language*, Vol.54, pp.31-43, March 2019. [[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0885230818300901)] 
 
 #### 国際会議・ワークショップ（International conferences/Workshops）
+1. Sora Ohashi, <u>Junya Takayama</u>, Tomoyuki Kajiwara, Yuki Arase. **Distinct Label Representations for Few-Shot Text Classification**. in *Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)*, August 2021. Acceptance rate: 25.2% (main conference). to appear 
 1. <u>Junya Takayama</u>, Yuki Arase. **Consistent Response Generation with Controlled Specificity** in *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings*, November, 2020. [[ACL anthology](https://www.aclweb.org/anthology/2020.findings-emnlp.396/)]
 1. Sora Ohashi, <u>Junya Takayama</u>, Tomoyuki Kajiwara, Chenhui Chu, Yuki Arase. **Text Classification with Negative Supervision**. in *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)*, July 2020. Acceptance rate: 17.6% (short papers). [[ACL Anthology](https://www.aclweb.org/anthology/2020.acl-main.33/)] 
 1. <u>Junya Takayama</u>, Yuki Arase. **Relevant and Informative Response Generationusing Pointwise Mutual Information**. in *Proceedings of the NLP for Conversational AI workshop (held at ACL2019)*, August 2019. Acceptance rate: 36.8%. [[ACL Anthology](https://www.aclweb.org/anthology/papers/W/W19/W19-4115/)]
@@ -46,6 +47,7 @@ Ph.D. student at Osaka University
 1. <u>Junya Takayama</u>, Eriko Nomoto, Yuki Arase. **Dialogue Breakdown Detection Considering Annotation Biases**.  in *Proceedings of Dialog System Technology Challenge 6 (DSTC6) Workshop*, December 2017. [[pdf](http://workshop.colips.org/dstc6/papers/track3_paper15_takayama.pdf)] 
 
 #### 国内会議・研究会等（Domestic conferences/others）
+1. <u>高山　隼矢</u>, 荒瀬　由紀. **Distant Supervision を用いた情報量を制御可能な雑談応答生成**. *言語処理学会第26回年次大会（NLP2020), March 2020. [[pdf]
 1. 田中 昂志, <u>高山 隼矢</u>, 荒瀬 由紀. **対話システムにおける履歴を考慮した応答の対話行為推定**. *第３３回人工知能学会全国大会（JSAI2019）*, June 2019. [[pdf](https://confit.atlas.jp/guide/event-img/jsai2019/1N2-J-9-04/public/pdf?type=in)]
 1. <u>高山　隼矢</u>, 荒瀬　由紀. **自己相互情報量を用いた特徴語彙予測に基づく雑談応答生成**. *言語処理学会第25回年次大会（NLP2019）*, March 2019. [[pdf](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P3-34.pdf)] [[poster](documents/NLP2019_P3-34_Poster.pdf)] 
 1. 大橋　空, <u>高山　隼矢</u>, 梶原　智之, Chenhui Chu, 荒瀬　由紀. **医療ドメインにおける単語分散表現を用いた文単位の言い換え認識**. *NLP若手の会 (YANS) 第13回シンポジウム（YANS2018）*, August 2018.
