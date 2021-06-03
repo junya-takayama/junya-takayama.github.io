@@ -61,7 +61,7 @@ Ph.D. student at Osaka University
 
 * 研究インターン - Research Intern:  
 [rinna株式会社](https://corp.rinna.co.jp/)  
-2020-02 ~ 2020-04 (予定)
+2020-02 ~ 2020-04
 * 特任研究員S（非常勤） - Specially Appointed Researcher/Fellow (Part time):  
 大阪大学情報科学研究科  
 2019-04 ~ 現在
@@ -102,12 +102,13 @@ Ph.D. student at Osaka University
 * ~~SPARQL~~
 
 
-## History {#history}
-
-* **2017-04** [ビッグデータ工学講座（鬼塚研）](http://www-bigdata.ist.osaka-u.ac.jp/ja/home/)  配属
-* **2017-04** 大阪大学大学院情報科学研究科 マルチメディア工学専攻　入学 
+## Education {#education}
+* **2019-04** 大阪大学大学院情報科学研究科 マルチメディア工学専攻　博士後期課程　入学（引き続き鬼塚研に所属） 
+* **2019-03** 大阪大学大学院情報科学研究科 マルチメディア工学専攻　博士前期課程　修了 
+* **2017-04** [ビッグデータ工学講座（鬼塚研）](http://www-bigdata.ist.osaka-u.ac.jp/ja/home/)  配属 
+* **2017-04** 大阪大学大学院情報科学研究科 マルチメディア工学専攻　博士前期課程　入学 
 * **2017-03** トヨタ学園豊田工業大学工学部　卒業
-* **2016-04** [知能数理研究室（佐々木裕研）](https://www.toyota-ti.ac.jp/Lab/Denshi/COIN/)　配属
+* **2016-04** [知能数理研究室（佐々木裕研）](https://www.toyota-ti.ac.jp/Lab/Denshi/COIN/)　配属 
 * **2013-04** トヨタ学園豊田工業大学工学部　入学
 * **2012-03** 愛知県立豊田北高校　卒業
 
