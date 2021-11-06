@@ -17,7 +17,7 @@ Ph.D. student at Osaka University
 <i class="fas fa-envelope-square"></i>takayama.junya [at] ist.osaka-u.ac.jp  
 <i class="fab fa-github-square"></i>[junya-takayama](https://github.com/junya-takayama)  
 <i class="fab fa-twitter-square"></i>[tkym1220](https://twitter.com/tkym1220)  
-
+<i class="fas fa-external-link-square-alt"></i>[researchmap: 高山 隼矢](https://researchmap.jp/junya-takayama)
 
 ## Research Interests {#research}
 
@@ -30,16 +30,17 @@ Ph.D. student at Osaka University
 * 機械学習（Machine Learning）
 
 ## Awards {#Awards}
-1. 大阪大学大学院情報科学研究科賞（平成30年度） [[Link](http://www.ist.osaka-u.ac.jp/japanese/dept/istplaza/H31/data/03.html)]
 1. 情報処理学会 第249回自然言語処理研究会 若手奨励賞 - <u>高山 隼矢</u>, 梶原 智之, 荒瀬 由紀. **間接的な応答と直接的な応答の対からなる対話コーパスの構築** [[Link](https://nl-ipsj.or.jp/young-award/)]
+1. 大阪大学大学院情報科学研究科賞（平成30年度） [[Link](http://www.ist.osaka-u.ac.jp/japanese/dept/istplaza/H31/data/03.html)]
 
 ## Publications {#publications}
 
 #### 学術論文誌 - Journal
+1. <u>高山 隼矢</u>, 梶原 智之, 荒瀬 由紀. **対話における間接的応答と直接的応答からなる言い換えコーパスの構築と分析**. 自然言語処理, Vol.29, No.1, January 2022 (to appear).
 1. <u>Junya Takayama</u>, Eriko Nomoto, Yuki Arase. **Dialogue breakdown detection robust to variations in annotators and dialogue systems**. *Computer Speech & Language*, Vol.54, pp.31-43, March 2019. [[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0885230818300901)] 
 
 #### 国際会議・ワークショップ（査読あり） - International conferences/Workshops (Refereed)
-1. <u>Junya Takayama</u>, Tomoyuki Kajiwara, Yuki Arase: **DIRECT: Direct and Indirect Responses in Conversational Text Corpus**. in *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing: Findings*, November 2021.
+1. <u>Junya Takayama</u>, Tomoyuki Kajiwara, Yuki Arase: **DIRECT: Direct and Indirect Responses in Conversational Text Corpus**. in *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing: Findings*, November 2021. [[ACL Anthology](https://aclanthology.org/2021.findings-emnlp.170/)]
 1. Sora Ohashi, <u>Junya Takayama</u>, Tomoyuki Kajiwara, Yuki Arase. **Distinct Label Representations for Few-Shot Text Classification**. in *Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)*, August 2021. Acceptance rate: 25.2% (main conference). [[ACL Anthology](https://aclanthology.org/2021.acl-short.105/)]
 1. <u>Junya Takayama</u>, Yuki Arase. **Consistent Response Generation with Controlled Specificity** in *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings*, November, 2020. [[ACL anthology](https://www.aclweb.org/anthology/2020.findings-emnlp.396/)]
 1. Sora Ohashi, <u>Junya Takayama</u>, Tomoyuki Kajiwara, Chenhui Chu, Yuki Arase. **Text Classification with Negative Supervision**. in *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)*, July 2020. Acceptance rate: 17.6% (short papers). [[ACL Anthology](https://www.aclweb.org/anthology/2020.acl-main.33/)] 
