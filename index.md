@@ -29,7 +29,7 @@ Ph.D. student at Osaka University
     * センサデータ（Sensor Data）
 * 機械学習（Machine Learning）
 
-## Awards {#Awards}
+## Awards {#awards}
 1. 情報処理学会 第249回自然言語処理研究会 若手奨励賞 - <u>高山 隼矢</u>, 梶原 智之, 荒瀬 由紀. **間接的な応答と直接的な応答の対からなる対話コーパスの構築** [[Link](https://nl-ipsj.or.jp/young-award/)]
 1. 大阪大学大学院情報科学研究科賞（平成30年度） [[Link](https://www.ist.osaka-u.ac.jp/japanese/introduction/prize.html)]
 
