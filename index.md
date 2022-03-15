@@ -36,7 +36,7 @@ Ph.D. student at Osaka University
 ## Publications {#publications}
 
 #### 学術論文誌 - Journal
-1. <u>高山 隼矢</u>, 梶原 智之, 荒瀬 由紀. **対話における間接的応答と直接的応答からなる言い換えコーパスの構築と分析**. 自然言語処理, Vol.29, No.1, March 2022 (to appear).
+1. <u>高山 隼矢</u>, 梶原 智之, 荒瀬 由紀. **対話における間接的応答と直接的応答からなる言い換えコーパスの構築と分析**. 自然言語処理, Vol.29, No.1, March 2022 [[J-STAGE](https://www.jstage.jst.go.jp/article/jnlp/29/1/29_84/_article/-char/ja/)] .
 1. <u>Junya Takayama</u>, Eriko Nomoto, Yuki Arase. **Dialogue breakdown detection robust to variations in annotators and dialogue systems**. *Computer Speech & Language*, Vol.54, pp.31-43, March 2019. [[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0885230818300901)] 
 
 #### 国際会議・ワークショップ（査読あり） - International conferences/Workshops (Refereed)
