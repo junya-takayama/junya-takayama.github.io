@@ -14,7 +14,7 @@ Ph.D. student at Osaka University
 博士後期課程 3年  
 高山 隼矢 (Junya TAKAYAMA)  
 
-<i class="fas fa-envelope-square"></i>takayama.junya [at] ist.osaka-u.ac.jp  
+<i class="fas fa-envelope-square"></i>takayama.nlp [at] gmail.com  
 <i class="fab fa-github-square"></i>[junya-takayama](https://github.com/junya-takayama)  
 <i class="fab fa-twitter-square"></i>[tkym1220](https://twitter.com/tkym1220)  
 <i class="fas fa-external-link-square-alt"></i>[researchmap: 高山 隼矢](https://researchmap.jp/junya-takayama)
