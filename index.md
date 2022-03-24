@@ -8,10 +8,8 @@ lang: 'ja'
 
 <img class="profile-picture" src="takayama.jpg">
 
-Ph.D. student at Osaka University  
-大阪大学大学院情報科学研究科 マルチメディア工学専攻  
-[ビッグデータ工学講座（鬼塚研）](http://www-bigdata.ist.osaka-u.ac.jp/ja/home/)  
-博士後期課程 3年  
+博士（情報科学）  
+Ph. D. of Information Science  
 高山 隼矢 (Junya TAKAYAMA)  
 
 <i class="fas fa-envelope-square"></i>takayama.nlp [at] gmail.com  
@@ -106,6 +104,10 @@ Ph.D. student at Osaka University
 
 
 ## Education {#education}
+* **2022-03** 大阪大学大学院情報科学研究科 マルチメディア工学専攻　博士後期課程　修了  
+  - **博士（情報科学）取得**  
+    学位論文：対話システムにおける人間とのコミュニケーションの円滑化に関する研究  
+    指導教員：[荒瀬由紀](https://yukiar.github.io/) 准教授
 * **2019-04** 大阪大学大学院情報科学研究科 マルチメディア工学専攻　博士後期課程　入学（引き続き鬼塚研に所属） 
 * **2019-03** 大阪大学大学院情報科学研究科 マルチメディア工学専攻　博士前期課程　修了 
 * **2017-04** [ビッグデータ工学講座（鬼塚研）](http://www-bigdata.ist.osaka-u.ac.jp/ja/home/)  配属 
