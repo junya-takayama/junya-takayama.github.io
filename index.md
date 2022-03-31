@@ -8,8 +8,11 @@ lang: 'ja'
 
 <img class="profile-picture" src="takayama.jpg">
 
-博士（情報科学）  
-Ph. D. of Information Science  
+* [ヤフー株式会社](https://about.yahoo.co.jp/) エンジニア  
+  Engineer at [Yahoo Japan Corporation](https://about.yahoo.co.jp/)  
+* 博士（情報科学）  
+  Ph. D. of Information Science
+
 高山 隼矢 (Junya TAKAYAMA)  
 
 <i class="fas fa-envelope-square"></i>takayama.nlp [at] gmail.com  
@@ -61,12 +64,15 @@ Ph. D. of Information Science
 
 ## Experiences {#experiences}
 
+* エンジニア - Engineer:  
+[ヤフー株式会社](https://about.yahoo.co.jp/)  
+2022-04 ~ 現在
 * 研究インターン - Research Intern:  
 [rinna株式会社](https://corp.rinna.co.jp/)  
 2021-02 ~ 2021-04
 * 特任研究員S（非常勤） - Specially Appointed Researcher/Fellow (Part time):  
 大阪大学情報科学研究科  
-2019-04 ~ 現在
+2019-04 ~ 2022-03
 * 技術補佐員S（非常勤） - Technical Staff (Temporary Part-Time Staff):  
 大阪大学情報科学研究科  
 2018-09 ~ 2019-03
