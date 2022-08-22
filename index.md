@@ -103,11 +103,10 @@ lang: 'ja'
 * Python3
     * Jupyter notebook
     * keras, pytorch, sklearn, numpy, scipy, pandas, mpl, Flask, Django, folium etc.
-* Ruby (basic skills)
-* MongoDB
-* Docker (compose)
+* Scala
+* Spark
+* Docker
 * ~~SPARQL~~
-
 
 ## Education {#education}
 * **博士（情報科学）**, 2022-03  
