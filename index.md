@@ -86,8 +86,8 @@ lang: 'ja'
 ## Other Activities {#others}
 
 #### Organizer
-* [最先端 NLP 勉強会（SNLP）](https://sites.google.com/view/snlp-jp/home), 実行委員（Organizer）, 2018 ~ 2021
-* [NLP若手の会（YANS）](https://yans.anlp.jp/), 運営委員（Organizer）, 2021 ~ 2022 (予定)
+* [最先端 NLP 勉強会（SNLP）](https://sites.google.com/view/snlp-jp/home), 実行委員（Organizer）, 2018 ~ 2022
+* [NLP若手の会（YANS）](https://yans.anlp.jp/), 運営委員（Organizer）, 2021 ~ 2022
 
 #### Teaching Assistant
 * **2020-09 ~ 2020-10** [一般社団法人データビリティコンソーシアム](https://cds.or.jp/index.html) 実データで学ぶ人工知能講座（土曜集中コース）, TA
