@@ -88,8 +88,8 @@ lang: 'ja'
 
 #### Organizer
 * [人工知能学会全国大会（JSAI）](https://www.ai-gakkai.or.jp/event/national-convention/), 大会委員, 2023 ~ 2024
-* [最先端 NLP 勉強会（SNLP）](https://sites.google.com/view/snlp-jp/home), 実行委員（Organizer）, 2018 ~ 2022
 * [NLP若手の会（YANS）](https://yans.anlp.jp/), 運営委員（Organizer）, 2021 ~ 2023
+* [最先端 NLP 勉強会（SNLP）](https://sites.google.com/view/snlp-jp/home), 実行委員（Organizer）, 2018 ~ 2022
 
 #### Teaching Assistant
 * **2020-09 ~ 2020-10** [一般社団法人データビリティコンソーシアム](https://cds.or.jp/index.html) 実データで学ぶ人工知能講座（土曜集中コース）, TA
