@@ -31,8 +31,9 @@ lang: 'ja'
 * 機械学習（Machine Learning）
 
 ## Awards {#awards}
-1. 情報処理学会 第249回自然言語処理研究会 若手奨励賞 - <u>高山 隼矢</u>, 梶原 智之, 荒瀬 由紀. **間接的な応答と直接的な応答の対からなる対話コーパスの構築** [[Link](https://nl-ipsj.or.jp/young-award/)]
-1. 大阪大学大学院情報科学研究科賞（平成30年度） [[Link](https://www.ist.osaka-u.ac.jp/japanese/introduction/prize.html)]
+1. 言語処理学会 **論文賞** -  <u>高山 隼矢</u>, 梶原 智之, 荒瀬 由紀. **対話における間接的応答と直接的応答からなる言い換えコーパスの構築と分析** [[Link](https://www.anlp.jp/award/ronbun.html)]
+1. 情報処理学会 第249回自然言語処理研究会 **若手奨励賞** - <u>高山 隼矢</u>, 梶原 智之, 荒瀬 由紀. **間接的な応答と直接的な応答の対からなる対話コーパスの構築** [[Link](https://nl-ipsj.or.jp/young-award/)]
+1. **大阪大学大学院情報科学研究科賞（平成30年度）** [[Link](https://www.ist.osaka-u.ac.jp/japanese/introduction/prize.html)]
 
 ## Publications {#publications}
 
@@ -95,6 +96,8 @@ lang: 'ja'
 * **2018-09** DLI hands-on training on [NVIDIA GTC Japan](https://www.nvidia.com/ja-jp/gtc/) 2018, TA
 
 #### Talk
+* **「対話における間接的応答と直接的応答からなる言い換えコーパスの構築と分析」**. *[言語処理学会第29回年次大会 招待論文セッション](https://www.anlp.jp/proceedings/annual_meeting/2023/#invitedpapers)*, March 2023. 
+* **「論文紹介：Prefix-Tuning: Optimizing Continuous Prompts for Generation」**. *[第11回 最先端NLP勉強会（SNLP2021）](https://sites.google.com/view/snlp-jp/home/2021)* September 2021. [[Slide](https://speakerdeck.com/tkym1220/snlp2021-prefix-tuning-optimizing-continuous-prompts-for-generation)]
 * **OpenNMTによる雑談対話機能の実装 講師**. *[コトバデザイン](https://cotobadesign.com/)主催 [対話システム勉強会](https://cotobaagent-developers-community.connpass.com/event/188047/)*, October 2020.
 * **「ACL2019参加報告」**. *[第10回対話システムシンポジウム（第87回 SIG-SLUD）](https://jsai-slud.github.io/sig-slud/)*, December 2019. [[Slide](https://github.com/jsai-slud/sig-slud/raw/master/material/87th/sympo10_conf_report.pdf)]
 * **「論文紹介：Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory」**. *[第11回 最先端NLP勉強会（SNLP2019）](https://sites.google.com/view/snlp-jp/home/2019)* September 2019. [[Slide](https://docs.google.com/presentation/d/e/2PACX-1vTXYak3cM0fcqLH9BpffoufHNwFop9BcAa_NC8YmSFh8OHr3uZFvDU2IiZA08UzJDypsuQNhFs1guBb/pub?start=false&loop=false&delayms=3000&slide=id.g645a4019e0_0_0)]
