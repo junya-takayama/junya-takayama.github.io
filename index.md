@@ -31,7 +31,7 @@ lang: 'ja'
 * 機械学習（Machine Learning）
 
 ## Awards {#awards}
-1. 言語処理学会 **論文賞** -  <u>高山 隼矢</u>, 梶原 智之, 荒瀬 由紀. **対話における間接的応答と直接的応答からなる言い換えコーパスの構築と分析** [[Link](https://www.anlp.jp/award/ronbun.html)]
+1. 言語処理学会 2022年度**論文賞** -  <u>高山 隼矢</u>, 梶原 智之, 荒瀬 由紀. **対話における間接的応答と直接的応答からなる言い換えコーパスの構築と分析** [[Link](https://www.anlp.jp/award/ronbun.html)]
 1. 情報処理学会 第249回自然言語処理研究会 **若手奨励賞** - <u>高山 隼矢</u>, 梶原 智之, 荒瀬 由紀. **間接的な応答と直接的な応答の対からなる対話コーパスの構築** [[Link](https://nl-ipsj.or.jp/young-award/)]
 1. **大阪大学大学院情報科学研究科賞（平成30年度）** [[Link](https://www.ist.osaka-u.ac.jp/japanese/introduction/prize.html)]
 
