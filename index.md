@@ -6,7 +6,7 @@ lang: 'ja'
 
 ## About Me {#aboutme}
 
-<img class="profile-picture" src="takayama.jpg">
+<img class="profile-picture" src="takayama2.jpg">
 
 * [ヤフー株式会社](https://about.yahoo.co.jp/) エンジニア  
   Engineer at [Yahoo Japan Corporation](https://about.yahoo.co.jp/)  
