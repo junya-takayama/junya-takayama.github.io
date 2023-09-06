@@ -8,8 +8,8 @@ lang: 'ja'
 
 <img class="profile-picture" src="takayama2.jpg">
 
-* [ヤフー株式会社](https://about.yahoo.co.jp/) エンジニア  
-  Engineer at [Yahoo Japan Corporation](https://about.yahoo.co.jp/)  
+* [ヤフー株式会社](https://about.yahoo.co.jp/) 自然言語処理エンジニア  
+  NLP Engineer at [Yahoo Japan Corporation](https://about.yahoo.co.jp/)  
 * 博士（情報科学）  
   Ph. D. of Information Science
 
@@ -67,15 +67,18 @@ lang: 'ja'
 
 ## Experiences {#experiences}
 
-* エンジニア - Engineer:  
+* 自然言語処理エンジニア - NLP Engineer:  
 [ヤフー株式会社](https://about.yahoo.co.jp/)  
-2022-04 ~ 現在
+2022-04 ~ 現在  
+検索クエリから社内知識ベースへのエンティティリンキングモデルの開発に従事
 * 研究インターン - Research Intern:  
 [rinna株式会社](https://corp.rinna.co.jp/)  
-2021-02 ~ 2021-04
+2021-02 ~ 2021-04  
+雑談対話モデルの開発に従事
 * 特任研究員S（非常勤） - Specially Appointed Researcher/Fellow (Part time):  
 大阪大学情報科学研究科  
-2019-04 ~ 2022-03
+2019-04 ~ 2022-03  
+医療ドメインの自然言語処理研究に従事
 * 技術補佐員S（非常勤） - Technical Staff (Temporary Part-Time Staff):  
 大阪大学情報科学研究科  
 2018-09 ~ 2019-03
