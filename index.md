@@ -55,6 +55,7 @@ lang: 'ja'
 1. <u>Junya Takayama</u>, Eriko Nomoto, Yuki Arase. **Dialogue Breakdown Detection Considering Annotation Biases**.  in *Proceedings of Dialog System Technology Challenge 6 (DSTC6) Workshop*, December 2017. [[pdf](http://workshop.colips.org/dstc6/papers/track3_paper15_takayama.pdf)] 
 
 #### 国内会議・研究会等 - Domestic
+1. <u>高山 隼矢</u>, 豊田 樹生, 齋藤 純, 小松 広弥, 熊谷 賢, **SNSハッシュタグからのエンティティの別名抽出システムの試作**. *NLP若手の会 (YANS) 第18回シンポジウム（YANS2023）* , August 2023.
 1. **【若手奨励賞】** <u>高山 隼矢</u>, 梶原 智之, 荒瀬 由紀. **間接的な応答と直接的な応答の対からなる対話コーパスの構築**. 情報処理学会第249回自然言語処理研究会, July 2021. 
 1. <u>高山 隼矢</u>, 荒瀬 由紀. **Distant Supervision を用いた情報量を制御可能な雑談応答生成**. *言語処理学会第26回年次大会（NLP2020), March 2020. [[pdf](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/C1-3.pdf)]
 1. 田中 昂志, <u>高山 隼矢</u>, 荒瀬 由紀. **対話システムにおける履歴を考慮した応答の対話行為推定**. *第３３回人工知能学会全国大会（JSAI2019）*, June 2019. [[pdf](https://confit.atlas.jp/guide/event-img/jsai2019/1N2-J-9-04/public/pdf?type=in)]
