@@ -8,8 +8,8 @@ lang: 'ja'
 
 <img class="profile-picture" src="takayama2.jpg">
 
-* [ヤフー株式会社](https://about.yahoo.co.jp/) 自然言語処理エンジニア  
-  NLP Engineer at [Yahoo Japan Corporation](https://about.yahoo.co.jp/)  
+* [LINEヤフー株式会社](https://www.lycorp.co.jp/ja/) 自然言語処理エンジニア  
+  NLP Engineer at [LY Corporation](https://www.lycorp.co.jp/ja/)  
 * 博士（情報科学）  
   Ph. D. of Information Science
 
@@ -68,7 +68,7 @@ lang: 'ja'
 ## Experiences {#experiences}
 
 * 自然言語処理エンジニア - NLP Engineer:  
-[ヤフー株式会社](https://about.yahoo.co.jp/)  
+[LINEヤフー株式会社 (formerly: ヤフー株式会社)](https://www.lycorp.co.jp/ja/)  
 2022-04 ~ 現在  
 検索クエリから社内知識ベースへのエンティティリンキングモデルの開発に従事
 * 研究インターン - Research Intern:  
