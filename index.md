@@ -92,7 +92,8 @@ lang: 'ja'
 ## Other Activities {#others}
 
 #### Organizer
-* [人工知能学会全国大会（JSAI）](https://www.ai-gakkai.or.jp/event/national-convention/), 大会委員, 2023 ~ 2024
+* [NLPコロキウム (NLP Colloquium)](https://nlp-colloquium-jp.github.io/), スタッフ (Staff), 2023 ~
+* [人工知能学会全国大会（JSAI）](https://www.ai-gakkai.or.jp/event/national-convention/), 大会委員 (Organizer), 2023 ~ 2024
 * [NLP若手の会（YANS）](https://yans.anlp.jp/), 運営委員（Organizer）, 2021 ~ 2023
 * [最先端 NLP 勉強会（SNLP）](https://sites.google.com/view/snlp-jp/home), 実行委員（Organizer）, 2018 ~ 2022
 
@@ -106,6 +107,9 @@ lang: 'ja'
 * **OpenNMTによる雑談対話機能の実装 講師**. *[コトバデザイン](https://cotobadesign.com/)主催 [対話システム勉強会](https://cotobaagent-developers-community.connpass.com/event/188047/)*, October 2020.
 * **「ACL2019参加報告」**. *[第10回対話システムシンポジウム（第87回 SIG-SLUD）](https://jsai-slud.github.io/sig-slud/)*, December 2019. [[Slide](https://github.com/jsai-slud/sig-slud/raw/master/material/87th/sympo10_conf_report.pdf)]
 * **「論文紹介：Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory」**. *[第11回 最先端NLP勉強会（SNLP2019）](https://sites.google.com/view/snlp-jp/home/2019)* September 2019. [[Slide](https://docs.google.com/presentation/d/e/2PACX-1vTXYak3cM0fcqLH9BpffoufHNwFop9BcAa_NC8YmSFh8OHr3uZFvDU2IiZA08UzJDypsuQNhFs1guBb/pub?start=false&loop=false&delayms=3000&slide=id.g645a4019e0_0_0)]
+
+#### ?
+* [NLP Youth](https://sites.google.com/view/nlp-youth/)
 
 ## Skills {#skills}
 
