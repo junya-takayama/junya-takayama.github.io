@@ -8,8 +8,8 @@ lang: 'ja'
 
 <img class="profile-picture" src="takayama2.jpg">
 
-* [LINEヤフー株式会社](https://www.lycorp.co.jp/ja/) 自然言語処理エンジニア  
-  NLP Engineer at [LY Corporation](https://www.lycorp.co.jp/ja/)  
+* [LINEヤフー株式会社](https://www.lycorp.co.jp/ja/)/[SB Intuitions](https://www.sbintuitions.co.jp/), Researcher  
+  Researcher at [LY Corporation](https://www.lycorp.co.jp/ja/)/[SB Intuitions](https://www.sbintuitions.co.jp/)  
 * 博士（情報科学）  
   Ph. D. of Information Science
 
@@ -67,9 +67,12 @@ lang: 'ja'
 
 ## Experiences {#experiences}
 
+* Researcher:  
+[LINEヤフー株式会社](https://www.lycorp.co.jp/ja/)/[SB Intuitions](https://www.sbintuitions.co.jp/)  
+2024-02 ~ 現在  
 * 自然言語処理エンジニア - NLP Engineer:  
 [LINEヤフー株式会社 (formerly: ヤフー株式会社)](https://www.lycorp.co.jp/ja/)  
-2022-04 ~ 現在  
+2022-04 ~ 2024-02  
 検索クエリから社内知識ベースへのエンティティリンキングモデルの開発に従事
 * 研究インターン - Research Intern:  
 [rinna株式会社](https://corp.rinna.co.jp/)  
