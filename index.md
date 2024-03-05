@@ -69,7 +69,7 @@ lang: 'ja'
 
 * Researcher:  
 [LINEヤフー株式会社](https://www.lycorp.co.jp/ja/)/[SB Intuitions](https://www.sbintuitions.co.jp/)  
-2024-02 ~ 現在  
+2024-03 ~ 現在
 * 自然言語処理エンジニア - NLP Engineer:  
 [LINEヤフー株式会社 (formerly: ヤフー株式会社)](https://www.lycorp.co.jp/ja/)  
 2022-04 ~ 2024-02  
