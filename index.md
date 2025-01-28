@@ -9,7 +9,8 @@ lang: 'ja'
 <img class="profile-picture" src="takayama2.jpg">
 
 * [LINEヤフー株式会社](https://www.lycorp.co.jp/ja/)/[SB Intuitions](https://www.sbintuitions.co.jp/), Researcher  
-  Researcher at [LY Corporation](https://www.lycorp.co.jp/ja/)/[SB Intuitions](https://www.sbintuitions.co.jp/)  
+  Researcher at [LY Corporation](https://www.lycorp.co.jp/ja/)/[SB Intuitions](https://www.sbintuitions.co.jp/)
+* [愛媛大学人工知能研究室](https://sites.google.com/view/ehime-nlp/%E3%83%9B%E3%83%BC%E3%83%A0), 客員研究員
 * 博士（情報科学）  
   Ph. D. of Information Science
 
