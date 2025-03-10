@@ -6,7 +6,7 @@ lang: 'ja'
 
 ## About Me {#aboutme}
 
-<img class="profile-picture" src="takayama2.jpg">
+<img class="profile-picture" src="takayama.jpg">
 
 * [LINEヤフー株式会社](https://www.lycorp.co.jp/ja/)/[SB Intuitions](https://www.sbintuitions.co.jp/), Researcher  
   Researcher at [LY Corporation](https://www.lycorp.co.jp/ja/)/[SB Intuitions](https://www.sbintuitions.co.jp/)
