@@ -24,12 +24,10 @@ lang: 'ja'
 ## Research Interests {#research}
 
 * 自然言語処理（Natural Language Processing）
+* LLM評価
 * 雑談対話システム（Chatbot）
     * ニューラル応答生成（Neural Networks for Response Generation）
     * 対話破綻検出（Dialogue Breakdown Detection）
-* Internet of Things (IoT)
-    * センサデータ（Sensor Data）
-* 機械学習（Machine Learning）
 
 ## Awards {#awards}
 1. 第19回YANSシンポジウム**奨励賞** - <u>高山 隼矢</u>, 大萩 雅也, 水本 智也, 吉川 克正. **質問の言語表現が大規模言語モデルの回答傾向に与える影響の調査** [[Link](https://yans.anlp.jp/entry/award)]
@@ -54,11 +52,15 @@ lang: 'ja'
 1. Kozo Chikai, <u>Junya Takayama</u>, Yuki Arase. **Responsive and Self-Expressive Dialogue Generation**. in *Proceedings of the NLP for Conversational AI workshop (held at ACL2019)*, August 2019. Acceptance rate: 36.8%. [[ACL Anthology](https://www.aclweb.org/anthology/papers/W/W19/W19-4116/)]
 1. Koji Tanaka, <u>Junya Takayama</u>, Yuki Arase. **Dialogue-Act Prediction of Future Response based on Conversation History**. in *Proceedings of ACL 2019, Student Research Workshop*, August 2019. [[ACL Anthology](https://www.aclweb.org/anthology/papers/P/P19/P19-2027/)]
 
-#### 国際ワークショップ（査読なし） - Workshops (Non-refereed)
-1. <u>Junya Takayama</u>, Eriko Nomoto, Yuki Arase. **Dialogue Breakdown Detection Considering Annotation Biases**.  in *Proceedings of Dialog System Technology Challenge 6 (DSTC6) Workshop*, December 2017. [[pdf](http://workshop.colips.org/dstc6/papers/track3_paper15_takayama.pdf)] 
-
-#### 国内会議・研究会等 - Domestic
-1. <u>高山 隼矢</u>, 大萩 雅也, 水本 智也, 吉川 克正. **質問の言語表現が大規模言語モデルの回答傾向に与える影響の調査**. *第19回YANSシンポジウム*, September 2023.
+#### 国内会議/査読なし会議 - Domestic / Non-refereed
+1. <u>高山 隼矢</u>, 大萩 雅也, 水本 智也, 吉川 克正. **質問の言語表現の差異が大規模言語モデルの回答傾向に与える影響の分析**. 第39回人工知能学会全国大会（JSAI2025）, May 2025. [[jstage](https://www.jstage.jst.go.jp/article/pjsai/JSAI2025/0/JSAI2025_3Win535/_article/-char/ja)]
+1. 吉川 克正, 大萩 雅也, <u>高山 隼矢</u>. **大規模言語モデルは人間の時間選好性を再現できるか？**. 第39回人工知能学会全国大会（JSAI2025）, May 2025. [[jstage](https://www.jstage.jst.go.jp/article/pjsai/JSAI2025/0/JSAI2025_2A1GS1001/_article/-char/ja)]
+1. <u>高山 隼矢</u>, 大萩 雅也, 水本 智也, 吉川 克正. **擬似選好チューニングによる対話応答のペルソナ一貫性向上**. *言語処理学会第31回年次大会（NLP2025), March 2025. [[pdf](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P10-6.pdf)]
+1. 山崎 天, <u>高山 隼矢</u>, 佐藤 京也, 大萩 雅也, 吉川 克正, 水本 智也. **疑似対話データとPreferenceデータを用いたドメイン特化対話への日本語LLMチューニングの検証**. *言語処理学会第31回年次大会（NLP2025), March 2025. [[pdf](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P10-19.pdf)]
+1. 吉川 克正, 大萩 雅也, <u>高山 隼矢</u>. **大規模言語モデルの非対称的意思決定特性：プロスペクト理論要素の実証分析**. *言語処理学会第31回年次大会（NLP2025), March 2025. [[pdf](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P1-5.pdf)]
+1. 黒澤 友哉, <u>高山 隼矢</u>, 綿岡 晃輝, 小林 滉河, 浅原 正幸, 西内 沙恵. **大規模言語モデルのための日本語安全性境界テスト**. *言語処理学会第31回年次大会（NLP2025), March 2025. [[pdf](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/A4-1.pdf)]
+1. 大萩 雅也, 綿岡 晃輝, <u>高山 隼矢</u>, 吉川 克正. **事前学習コーパス内の特定の属性への言及の急激な変化の調査**. *言語処理学会第31回年次大会（NLP2025), March 2025. [[pdf](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P9-2.pdf)]
+1. **【奨励賞】** <u>高山 隼矢</u>, 大萩 雅也, 水本 智也, 吉川 克正. **質問の言語表現が大規模言語モデルの回答傾向に与える影響の調査**. 第19回YANSシンポジウム, September 2024.
 1. 大萩 雅也, <u>高山 隼矢</u>, 水本 智也, 吉川 克正. **大規模言語モデルの意見調査のための日本語データセットの構築**. *情報処理学会第260回自然言語処理研究会*, July 2024.
 1. <u>高山 隼矢</u>, 豊田 樹生, 齋藤 純, 小松 広弥, 熊谷 賢. **SNSハッシュタグからのエンティティの別名抽出システムの試作**. *NLP若手の会 (YANS) 第18回シンポジウム（YANS2023）*, August 2023.
 1. **【若手奨励賞】** <u>高山 隼矢</u>, 梶原 智之, 荒瀬 由紀. **間接的な応答と直接的な応答の対からなる対話コーパスの構築**. *情報処理学会第249回自然言語処理研究会*, July 2021. 
@@ -67,6 +69,7 @@ lang: 'ja'
 1. <u>高山 隼矢</u>, 荒瀬 由紀. **自己相互情報量を用いた特徴語彙予測に基づく雑談応答生成**. *言語処理学会第25回年次大会（NLP2019）*, March 2019. [[pdf](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P3-34.pdf)] [[poster](documents/NLP2019_P3-34_Poster.pdf)] 
 1. 大橋 空, <u>高山　隼矢</u>, 梶原　智之, Chenhui Chu, 荒瀬　由紀. **医療ドメインにおける単語分散表現を用いた文単位の言い換え認識**. *NLP若手の会 (YANS) 第13回シンポジウム（YANS2018）*, August 2018.
 1. **【学生奨励賞】** 田中 昂志, <u>高山 隼矢</u>, 荒瀬 由紀. **雑談対話システムのための未知語に頑健な興味推定手法**. *情報処理学会第235回自然言語処理研究会*, pp.1-5, May 2018.
+1. <u>Junya Takayama</u>, Eriko Nomoto, Yuki Arase. **Dialogue Breakdown Detection Considering Annotation Biases**.  in *Proceedings of Dialog System Technology Challenge 6 (DSTC6) Workshop*, December 2017. [[pdf](http://workshop.colips.org/dstc6/papers/track3_paper15_takayama.pdf)] 
 1. <u>高山 隼矢</u>, 荒瀬 由紀. **擬似対話コーパス構築のための対話品質推定**. *NLP若手の会 (YANS) 第12回シンポジウム（YANS2017）* , September 2017.
 1. <u>高山 隼矢</u>, 三輪 誠, 佐々木 裕. **交通オントロジーに基づく質問応答データセットの構築**. *言語処理学会第23回年次大会（NLP2017）*, pp.691-694, March 2017.
 
